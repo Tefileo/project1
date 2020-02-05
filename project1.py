@@ -24,6 +24,6 @@ eye_color =  input('Please enter your eye color here: ')
 hair_colour =  input('Please enter your hair colour here: ')
 age = int(input('Please enter your age in years: '))
 
-print('Hello {} {}! Thank you for confirming your species to be {}, your eye colour to be {} and your hair colour to be {}'.format(name, last_name, species, eye_color, hair_colour))
+print('Hello {} {}! Thank you for confirming your species to be {}, your eye colour to be {}, and your hair colour to be {}.'.format(name, last_name, species, eye_color, hair_colour))
 
-print('You told us you are {} years old, this must mean you where born in {}'.format(age, 2020-age))
+print('You told us you are {} years old, this must mean you where born in {}.'.format(age, 2020-age))
