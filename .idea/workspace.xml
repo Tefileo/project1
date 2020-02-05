@@ -32,6 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../project2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="project1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -73,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580841920792</updated>
       <workItem from="1580841934740" duration="2846000" />
-      <workItem from="1580893083975" duration="1064000" />
+      <workItem from="1580893083975" duration="3397000" />
     </task>
     <servers />
   </component>
@@ -85,28 +86,36 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="815" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580893204161" />
-    <state width="784" height="210" key="GridCell.Tab.0.bottom" timestamp="1580845388900">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1580899778983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="784" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580845388900" />
-    <state width="784" height="210" key="GridCell.Tab.0.center" timestamp="1580845388900">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.760@0.0.1536.824" timestamp="1580897593760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580899778983" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1580899778983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="784" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580845388900" />
-    <state width="784" height="210" key="GridCell.Tab.0.left" timestamp="1580845388900">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.760@0.0.1536.824" timestamp="1580897593760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580899778983" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1580899778982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="784" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580845388900" />
-    <state width="784" height="210" key="GridCell.Tab.0.right" timestamp="1580845388900">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.760@0.0.1536.824" timestamp="1580897593760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580899778982" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1580899778983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="784" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580845388900" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.760@0.0.1536.824" timestamp="1580897593760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580899778983" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1580897652113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580897652113" />
     <state x="818" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580893093086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="818" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580893093086" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/project1$project1.coverage" NAME="project1 Coverage Results" MODIFIED="1580893103433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$project1.coverage" NAME="project1 Coverage Results" MODIFIED="1580899778967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

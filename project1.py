@@ -9,20 +9,18 @@
 # print something like: 'You said you we're 28 hence you were born in 1991!'
 #Fourth Commit
 
-from datetime import date, timedelta
-
 name = "Tefileo"
 last_name = "Stephens"
 species = "Human"
 eye_color = "Brown"
 hair_colour = "Black"
-age = 30
+age = 20
 
-name = input('Please enter your first name here: ')
-last_name = input('Please enter your last name here: ')
-species =  input('Please enter your species here: ')
-eye_color =  input('Please enter your eye color here: ')
-hair_colour =  input('Please enter your hair colour here: ')
+name = input('Please enter your first name here: ').strip().capitalize()
+last_name = input('Please enter your last name here: ').strip().capitalize()
+species =  input('Please enter your species here: ').strip().capitalize()
+eye_color =  input('Please enter your eye color here: ').strip().capitalize()
+hair_colour =  input('Please enter your hair colour here: ').strip().capitalize()
 age = int(input('Please enter your age in years: '))
 
 print('Hello {} {}! Thank you for confirming your species to be {}, your eye colour to be {}, and your hair colour to be {}.'.format(name, last_name, species, eye_color, hair_colour))
